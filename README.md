@@ -64,3 +64,6 @@ by most commercial Fortran compilers as well as by the free gfortran
 compiler. Since version 2.3, FortranGIS makes use of some extra
 Fortran 2003 features besides bindings to C, thus gfortran version 4.6
 or higher is recommended.
+
+## Deps
+sudo apt install libshp4 libshp-dev doxygen
